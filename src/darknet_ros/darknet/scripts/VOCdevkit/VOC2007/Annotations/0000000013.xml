@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>0000000013.png</filename>
+	<path>C:\Users\User\Desktop\data\0000000013.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1242</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>177</ymin>
+			<xmax>672</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>
